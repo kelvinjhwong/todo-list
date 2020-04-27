@@ -10,7 +10,7 @@
    ```
    $ cd todo-list
    ```
-3. Install dependencies with NPM
+3. Install dependencies with npm
    ```
    $ npm install
    ```

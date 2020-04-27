@@ -1,0 +1,43 @@
+Add new todos
+
+* Leave some fields empty
+* Alert for title less than 3 characters
+* Alert for marking as completed
+
+* For empty list
+* For non-empty list
+
+* Add to same list
+* Add to different list
+
+* All Todos list
+* Date lists
+* Completed list
+* Completed date lists
+
+Update todos
+
+* Mark as completed with button
+* Mark as completed with checkbox
+
+* Leave some fields empty
+
+* No list change
+* List change [to date or completed] to non-empty
+
+* List change to empty
+
+* All Todos list
+* Date lists
+* Completed list
+* Completed date lists
+
+Delete todos
+
+* To non-empty list
+* To empty list
+
+* All Todos list
+* Date lists
+* Completed list
+* Completed date lists

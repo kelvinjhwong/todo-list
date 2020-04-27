@@ -1,0 +1,17 @@
+{
+  "name": "239-todos-backend-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  }
+}
